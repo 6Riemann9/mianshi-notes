@@ -1,0 +1,15 @@
+{
+  "dashboardFile": "dashboard",
+  "recentDocCount": 5,
+  "language": "en",
+  "stylePreset": "island",
+  "journalPath": "",
+  "widgetTheme": "weather",
+  "widgetTrackerKey": "",
+  "widgetTrackerDays": 30,
+  "widgetTrackerSummary": "streak",
+  "widgetWeatherCity": "Shanghai",
+  "widgetWeatherLat": 31.23,
+  "widgetWeatherLon": 121.47,
+  "taskTemplates": []
+}
