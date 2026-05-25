@@ -1,0 +1,16 @@
+# Obsidian workspace config (differs per device, don't sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-desktop.json
+
+# Obsidian cache
+.obsidian/cache
+
+# OS trash
+.trash/
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+~$*.md
