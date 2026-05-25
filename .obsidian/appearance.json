@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": ""
 }
